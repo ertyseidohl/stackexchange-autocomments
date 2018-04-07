@@ -1,6 +1,9 @@
 ###[Q] More than one question asked
 It is preferred if you can post separate questions instead of combining your questions into one. That way, it helps the people answering your question and also others hunting for at least one of your questions. Thanks!
 
+###[Q] Include Debug
+Please edit your post to include the error you're getting, so that we can help you debug. Thanks!
+
 ###[Q] Looking for a software recommendation
 Unfortunately, questions asking for recommendations of books, tools, software libraries, tutorials or other off-site resources are off-topic here. However, you may find better luck at [Software Recommendations SE](https://softwarerecs.stackexchange.com/).
 
